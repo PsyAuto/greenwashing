@@ -19,23 +19,23 @@
     color: #000;
   }
   .hotspot-1 {
-    top: 26%;
+    top: 27%;
     left: 47%;
   }
   .hotspot-2 {
-    top: 46%;
+    top: 47%;
     left: 25.5%;
   }
   .hotspot-3 {
-    top: 76.5%;
+    top: 77.5%;
     left: 50.5%;
   }
   .hotspot-4 {
-    top: 49%;
+    top: 50%;
     left: 63%;
   }
   .hotspot-5 {
-    top: 64.5%;
+    top: 66%;
     left: 76.5%;
   }
   .hotspot-container {
@@ -48,7 +48,7 @@
     margin-top: 0;
     margin-left: 10%;
     padding: 20px;
-    position: relative;
+    position: absolute;
     z-index: 100;
     top: 10px;
     width: 160px;
